@@ -14,7 +14,7 @@ en:
         submit_button: "Set my password"
     mailer:
       invitation_instructions:
-        subject: You're invited to Hours!
+        subject: You're invited to White Clay Hours!
         greeting: Hi
         someone_invited_you: 'Someone has invited you to %{url}, you can accept it through the link below.'
         accept: 'Accept invitation'

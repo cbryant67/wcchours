@@ -1,13 +1,13 @@
 {
-  "name": "Hours",
-  "description": "Time registration that doesn't suck",
+  "name": "White Clay Hours",
+  "description": "Time registration made ezpz",
   "repository": "https://github.com/DefactoSoftware/Hours",
   "logo": "https://raw.githubusercontent.com/DefactoSoftware/Hours/development/app/assets/images/logo.png",
   "keywords": ["hours"],
   "env": {
     "SINGLE_TENANT_MODE": "true",
     "SMTP_ADDRESS": "smtp.sendgrid.net",
-    "SMTP_DOMAIN": "Insert your domain here",
+    "SMTP_DOMAIN": "https://wcchours.herokuapp.com",
     "SMTP_PASSWORD": "Your sendgrid password",
     "SMTP_USERNAME": "Your sendgrid username"
   },
